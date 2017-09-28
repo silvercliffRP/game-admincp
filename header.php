@@ -19,6 +19,7 @@ session_cache_limiter('private_no_expire');
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
+    <script src="https://use.fontawesome.com/8065b95ffc.js"></script>
    
     <link href="css/simple-sidebar.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
@@ -58,4 +59,4 @@ session_cache_limiter('private_no_expire');
         <!-- /#sidebar-wrapper -->
 
         <!-- Page Content -->
-        <div id="page-content-wrapper"><a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Menu</a>
+        <div id="page-content-wrapper"><a href="#menu-toggle" class="btn btn-secondary hamburger-menu" id="menu-toggle"><i class="fa fa-bars" aria-hidden="true"></i></a>

@@ -1,1 +1,13 @@
-#menu-toggle > .fa-bars { font-size: 2em; }
+.hamburger-menu {
+    background-color: rgba(0,0,0,0) !important;
+    background-image: initial !important;
+    color: white !important;
+    font-size: 2.5em !important;
+    border: none !important;
+    text-shadow: initial !important;
+    box-shadow: initial !important;
+}
+
+.hamburger-menu:hover {
+    color: ##6db4de !important;
+}
