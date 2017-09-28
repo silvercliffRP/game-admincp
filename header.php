@@ -58,4 +58,4 @@ session_cache_limiter('private_no_expire');
         <!-- /#sidebar-wrapper -->
 
         <!-- Page Content -->
-        <div id="page-content-wrapper"><a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle"><i class="fa fa-bars" aria-hidden="true"></i></a>
+        <div id="page-content-wrapper"><a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle">Menu</a>
